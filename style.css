@@ -6,9 +6,9 @@ body {
 }
 .aaa {
   width: 500px;
-  margin: 0 auto;
   display: block;
   text-align: right;
+  margin: 0 auto 16px;
 }
 .aaa img {
   width: 100%;
@@ -33,6 +33,7 @@ body {
 }
 .task-row-wrapper {
   display: flex;
+  padding-top: 20px;
 }
 ul {
   margin:0;
